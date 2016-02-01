@@ -1,0 +1,1 @@
+"some info about this course. open it up using less my_file.md"
